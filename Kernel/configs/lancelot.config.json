@@ -5,7 +5,7 @@
       "repo": "https://github.com/LineageOS/android_kernel_xiaomi_mt6768",
       "branch": "lineage-20",
       "device": "lancelot",
-      "defconfig": "vendor/xiaomi/lancelot_defconfig"
+      "defconfig": "arch/arm64/configs/lancelot_defconfig"
     },
     "toolchains": [
       {
