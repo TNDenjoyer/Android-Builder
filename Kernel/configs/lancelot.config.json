@@ -1,11 +1,11 @@
 [
   {
     "kernelSource": {
-      "name": "miatoll",
-      "repo": "https://github.com/LineageOS/android_kernel_xiaomi_sm6250",
-      "branch": "lineage-21",
-      "device": "miatoll",
-      "defconfig": "vendor/xiaomi/miatoll_defconfig"
+      "name": "lancelot",
+      "repo": "https://github.com/LineageOS/android_kernel_xiaomi_mt6768",
+      "branch": "lineage-20",
+      "device": "lancelot",
+      "defconfig": "vendor/xiaomi/lancelot_defconfig"
     },
     "toolchains": [
       {
